@@ -5,6 +5,7 @@
 
 
 下面我给出的是 MySQL 的基本架构示意图，从中你可以清楚地看到 SQL 语句在 MySQL的各个功能模块中的执行过程。
+
 ![img.png](img/mysql.png)
 
 
