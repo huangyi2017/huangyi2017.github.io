@@ -36,7 +36,7 @@ update T set c=c+1 where ID=2
 的一行数据，再调用引擎接口写入这行新数据。
 3.引擎将这行新数据更新到内存中，同时将这个更新操作记录到 redo log 里面，此时 redo log 处于 prepare 状态。
 4.执行器生成这个操作的 binlog，并把 binlog 写入磁盘。
-5.执行器调用引擎的提交事务接口，引擎把刚刚写入的 redo log 改成提交（commit）状 态，更新完成。。
+5.执行器调用引擎的提交事务接口，引擎把刚刚写入的 redo log 改成提交（commit）状 态，更新完成。
 
 ![img.png](img/updateSqlExec.png)
 
