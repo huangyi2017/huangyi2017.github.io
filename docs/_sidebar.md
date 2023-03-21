@@ -1,10 +1,5 @@
 
 - :memo: 目录
-   - 第1章：开发入门
-   
-       - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
-       - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md)
- 
    - MYSQL
        - [第1节：索引什么情况下会失效](/md/Mysql/索引什么情况下会失效.md)
        - [第2节：一条查询SQL如何执行](/md/Mysql/一条查询SQL如何执行.md)
