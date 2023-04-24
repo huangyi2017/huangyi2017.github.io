@@ -1,4 +1,4 @@
-;<script type="text/javascript">
+<script type="javascript/text">
    window.onload = function(){
         console.log("onload")
         let aa = document.getElementById("aa");
