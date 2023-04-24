@@ -1,6 +1,7 @@
 <script type="javascript/text">
    window.onload = function(){
-        let aa = document.getElementById("aa")
+        console.log("onload")
+        let aa = document.getElementById("aa");
         aa.onclick = function(){
         alert("aaa")
         }
