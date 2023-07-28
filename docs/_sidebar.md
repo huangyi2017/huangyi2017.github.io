@@ -7,6 +7,7 @@
        - [第2节：一条查询SQL如何执行](/md/Mysql/一条查询SQL如何执行.md)
        - [第3节：一条更新SQL如何执行](/md/Mysql/一条更新SQL如何执行.md)
        - [第4节：光怪陆离的事务隔离](/md/Mysql/光怪陆离的事务隔离.md)
+       - [问题精选](/md/Mysql/问题精选.md)
    - 微服务
       - [第1节：什么是微服务](/md/miscroService/什么是微服务.md)
       - [第2节：服务注册与发现](/md/miscroService/服务注册与发现.md)
